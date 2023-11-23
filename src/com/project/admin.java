@@ -106,7 +106,7 @@ public class admin {
         BufferedReader bufferedInput = new BufferedReader(fileInput);
 
         // buat database sementara
-        File tempDB = new File("tempDB.txt");
+        File tempDB = new File("databaseFiks.txt");
         FileWriter fileOutput = new FileWriter(tempDB);
         BufferedWriter bufferedOutput = new BufferedWriter(fileOutput);
 
