@@ -45,7 +45,7 @@ public class perpustakaan {
         // Tambahkan implementasi untuk menu 1 (Pinjam Buku) di sini jika diperlukan
         // membaca database ada atau tidak
         try {
-            File file = new File("databaseBuku.txt");
+            File file = new File("databaseSementara.txt");
         } catch (Exception e) {
             System.err.println("Database tidak ditemukan");
             return;
@@ -61,7 +61,7 @@ public class perpustakaan {
     }
 
     private void cekBukuDiDatabase(String[] keywords) throws IOException {
-        FileReader fileInput = new FileReader("databaseBuku.txt");
+        FileReader fileInput = new FileReader("databaseSementara.txt");
         BufferedReader bufferInput = new BufferedReader(fileInput);
 
         String data = bufferInput.readLine();
