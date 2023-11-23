@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PERPUSTAKAAN:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PERPUSTAKAAN_jar</output-path>
+    <root id="archive" name="PERPUSTAKAAN.jar">
+      <element id="module-output" name="PERPUSTAKAAN" />
+    </root>
+  </artifact>
+</component>

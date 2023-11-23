@@ -1,0 +1,21 @@
+1,Semester Ganjil,Matematika,10
+1,Semester Ganjil,PKN,10
+1,Semester Ganjil,IPA,10
+1,Semester Ganjil,IPS,10
+1,Semester Ganjil,Bahasa Indonesia,10
+1,Semester Ganjil,Bahasa Inggris,10
+1,Semester Ganjil,PJOK,10
+1,Semester Ganjil,SBK,10
+1,Semester Ganjil,Agama Kristen,10
+1,Semester Ganjil,Agama Islam,10
+1,Semester Genap,Matematika,10
+1,Semester Genap,PKN,10
+1,Semester Genap,IPA,10
+1,Semester Genap,IPS,10
+1,Semester Genap,Bahasa Indonesia,10
+1,Semester Genap,Bahasa Inggris,10
+1,Semester Genap,PJOK,10
+1,Semester Genap,SBK,10
+1,Semester Genap,Agama Kristen,10
+1,Semester Genap,Agama Islam,10
+2,Semester Ganjil,Matematika,10
